@@ -3,7 +3,7 @@
 The data is obtained by scraping [MTsamples](https://www.mtsamples.com/). Follow the steps to reproduce the data.
 
 Requirements:
-* Coqui TTS (pip install TTS)
+* Coqui TTS (pip install TTS) (with Version 0.0.10)
 * BeautifulSoup (pip install beautifulsoup4)
 * lxml parser (pip install lxml)
 
