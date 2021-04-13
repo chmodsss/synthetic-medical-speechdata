@@ -28,12 +28,13 @@ Usage:
 
 4. Call the tts engine to convert the samples to audio in the wav folder.
 ```
+> mkdir wav
 > ./tts_reader.sh
 ```
 
 5. Rename the wav files according to a standard format
 ```
-> mkdir wav && cd wav
+> cd wav
 > ls -rt | cat -n | while read n f; do mv -n "$f" "$(printf "MT_%05d" $n).wav"; done
 ```
 
