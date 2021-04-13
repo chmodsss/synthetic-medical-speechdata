@@ -18,7 +18,6 @@ Usage:
 
 2. Scrape the data from web
 ```
-> cd data
 > python scraper.py
 ```
 
@@ -34,7 +33,7 @@ Usage:
 
 5. Rename the wav files according to a standard format
 ```
-> cd wav
+> mkdir wav && cd wav
 > ls -rt | cat -n | while read n f; do mv -n "$f" "$(printf "MT_%05d" $n).wav"; done
 ```
 
