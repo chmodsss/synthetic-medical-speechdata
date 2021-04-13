@@ -43,3 +43,5 @@ Usage:
 > cd ..
 > awk '{ printf ("MT_%0.5d | %s\n", NR, $0) }' mtsamples_new.txt > transcript.txt
 ```
+
+* Samples of generated audio files are present in `sample_dataset` folder.
