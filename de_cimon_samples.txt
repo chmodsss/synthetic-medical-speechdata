@@ -1,0 +1,168 @@
+Ist PATIENT aufgeklärt? 
+Ist die Aufklärung erfasst?
+War PATEINT gestern genauso?
+Warum ist PATIENT da?
+Warum wird PATIENT abgeholt?
+Was hat PATIENT für Vorerkrankungen?
+Seit wie vielen Tagen ist der PATIENT bereits hier?
+Ist PATIENT über Schluckecho aufgeklärt?
+Warum ist PATIENT isoliert?
+Wie lange ist PATIENT noch isoliert?
+Wie lange muss PATIENT noch isoliert sein?
+Woher kommt der neue Patient?
+Was sind seine Vorerkrankung?
+Wo ist PATIENT hingekommen
+Woher ist PATIENT gekommen?
+Welche Vorerkrankungen hat PATIENT?
+Was ist in den letzten 12 Stunden mit PATIENT passiert?
+Ist irgendwas auffällig im Labor von PATIENT?
+Haben wir schon ein Procedere für PATIENT?
+Wo ist PATIENT denn hingekommen? 
+Wo ist PATIENT Sonntag hingekommen? 
+Wo ist PATIENT hingekommen? 
+Kommt PATIENT aus Steele? 
+Warum ist PATIENT gekommen?
+Kannst du mir einmal die initialen Laborwerte zeigen?
+Kannst du einmal den ZNA-Brief aufmachen?
+Kannst du mir einmal den Laborbericht des Patienten aufmachen.
+Kannst du bitte den Laborwert nachsehen?
+Was machen die Leukozythen?
+Sind die Transaminasen gefallen oder nicht?
+Da ist eine Demenzdiagnose, wie stark ist sie?
+Auf welchem Niveau kann ich mit PATIENT sprechen?
+Wie war das CA19?
+Hat PATEINT irgendwo ein DNR/DNI registriert?
+Was für Medikamente sind dazugekommen?
+Stell mir alle Vorbefunde von PATIENT zusammen, insbesondere ob wir von ihm Echos haben.
+Stell mir alle Vorbefunde von PATIENT zusammen, insbesondere ob wir von ihm Echos haben.
+Druck die Briefe von PATIENT aus.
+Werte das EKG schonmal für mich aus.
+Besorg mir die Vorbefunde zu PATIENT aus dem Krankenhaus in ORT.
+Such mir die Telefonnummer von ANGEHÖRIGE von PATIENT raus.
+Zeig mir die Laborwerte.
+Zeig mir die Blutwerte von heute.
+Zeig mir die Blutwerte von gestern.
+Zeige mir die Arbeitsdiagnose
+Ist ein Wert aufgefallen, ist der auffällig ist?
+Wie sind die Transaminasen gefallen?
+Ist PATIENT antikorreliert?
+Hat  PATIENT eine Prophylaxe gemacht?
+Zeige mir den Befund von PATIENT.
+Welche Vorbefunde liegen vor?
+Hatte PATIENT bereits Stuhlgang?
+Welche Medikamente hat PATIENT bisher erhalten und in welcher Dosierung?
+Lies mir den Verlaufsbericht vor.
+Was ist der Befund der PCI?
+Könntest du das Protokoll nach ACVB-OP abspielen?
+Ist die Stuhlfrequenz wieder zurückgegangen?
+Welches Medikament hatte ich zuletzt bei PATIENT umgestellt?
+Was hat denn die ZNA vorgeschlagen, was hier gemacht werden soll?
+Was ist die Auswertung des CT's?
+Lies die Auswertung der CT Untersuchung vor.
+Hat PATIENT einen TSH-Wert? Hat er einen Crea-Wert?
+Was ist das weitere Procedere nach der PCI?
+Kannst du mir eine Liste mit allen Privatpatienten geben?
+Wie viele Patienten habe ich aktuell?
+Wieviele Patienten habe ich auf der Station, wieviele hat mein Kollege Dr. Kemper?
+Sag mir, welche Patienten neu auf die Station gekommen sind
+Gib mir eine Aufstellung welche Patienten nach 8 oder 46 geschüsselt sind.
+Wer liegt denn in ZIMMER in BETT?
+Trigger aus den Laborwerten: Ein Parameter ist doppelt so hoch wie gestern, ist das eventuell relevant?
+Automatische Benachrichtigung vor der Visite eines Patienten
+Sprachassistent soll Auffälligkeiten in den Blutwerten hier automatisch vorlesen.
+Automatische Benachrichtigung bei Untersuchungsanmeldung, dass benötigte Laborwerte fehlen.
+Laborchemische Veränderungen melden
+Änderungen im Blutdruck melden
+Veränderungen in Medikation
+PATIENT hat in der Nacht gekrampft. 
+Gestern ist Kopf-CT gelaufen, nachdem Patient gestürzt.
+Aktivität: Untersuchung ist gelaufen
+Not-OP gestern Nacht nach inneren Blutungen.
+Trigger aus dem SAP-System: Das Histogramm von Patient X ist fertig.
+Reanimierungsalarm wird ausgelöst, System registriert: DNR/DNI vorhanden, Rea-Team wird gar nicht erst gerufen.
+Welche Untersuchungen wurden bereits durch den diensthabenden Arzt angeordnet?
+Ist das Labor für heute angemeldet gewesen?
+Ist es abgenommen?
+Sind die Ergebnisse schon da?
+Ist die Untersuchung schon gelaufen?
+Ist die Untersuchung schon gelaufen?
+Läuft das EKG bei PATIENT?
+Ist ein Sonos für die Patientin bereits angemeldet?
+Sind viszeral-chirurgische Befundungen erfolgt?
+Ist bei PATIENT eine Histologie erfolgt?
+Sind die Stuhlkulturen schon abgenommen?
+Sind beide Tasks Stuhlkulturen abnehmen und Antibiose abgenommen abgeschlossen?
+Ist das Echo mittlerweile abgeschlossen?
+Wurden nach der OP bereits die Nachuntersuchungen gemacht?
+Welche Untersuchungen werden bei PATIENT postoperativ noch gemacht?
+Ist die Stuhlprobe bereits zurück gekommen?
+Ist der Antrag bereits gestellt?
+Habe ich den Antrag bereits ausgefüllt?
+Haben wir alle Blutwerte für die Coro zusammen?
+Diagnosen: Verdacht auf koronare Herzerkrankung, nächste Zeile Strich, Echokardiografie Doppelpunkt gute LV-Funktion, keine Wandelstörungen. 
+Nächste Zeile Strich Kironarangiografie folgt. 
+Dann nächste Zeile neue Diagnose.
+Bereite die Entlassung für PATIENT vor. 
+Kannst du bitte anordnen: Morgen X mit 1 Routine
+Hier sollte regelmäßig jemand gucken kommen.
+Bitte JONO vor CORO für Pflege anordnen. 
+Bitte Stuhlkulturen abnehmen.
+Bitte Stuhlkulturen abnehmen und dann Antibiosen abnehmen. 
+Bitte teil der Pflege mit, dass für PATIENT morgen ein Lunchpaket erstellt werden soll.
+Wenn CIMON sieht, dass Arzt Insulin anordnet, soll CIMON ein Blutzuckertagesprofil für die Pflege anordnen.
+Schreibe eine E-Mail an PERSON : Entlassung für den 26.11.2020, nächste Zeile: 6d Doppelpunkt gegebenenfalls, Zimmer X. 5b: PATIENT nach Laborkontrolle. Dann: Liebe Grüße, Und abschicken.
+Merk dir mal: Differenzierte Merkmale nur mit dem Betreuer besprechbar.
+Mach bitte einen Drei-Monats-Termin aus für PATIENT
+Dokumentiere die Visite
+Fülle den Aufklärungsbogen soweit wie möglich für mich aus.
+Lösche alle Untersuchungen und Anforderungen von gestern die mit Lungenheilkunde zu tun haben.
+Dokumentiere, dass PATIENT auf Chefarztbehandlung verzichtet hat
+CIMON soll nach Ablauf der 10 Tage Isolation den Status des Patienten automatisch auf entisoliert setzen können.
+Setze den Status von PATIENT auf entisoliert.
+Dokumentiere: Rücksprache mit NAME ist erfolgt.
+Bitte bei PATIENT ASS 100 mg 1-0-0. Atora-Statin 40 mg 0-0-1. Bitte als Medikation angeben.
+Persubin bitte drei mal täglich über oral geben.
+Kannst du bitte im Labor Bilirubin, Transaminase, Repeat-Profil einmal nachbestellen.
+Ordne bitte Morphin 2,5mg subkutan an bei PATIENT
+Öffne die Tür für mich.
+Wenn ich dir in Zukunft sage: Mach das ACVB-Protokoll, bitte ergänze dann immer xy
+Ruf mal bitte NAME an, ich habe hier PATIENTEN ohne Echo, die ich sonst nicht entlassen kann.
+Mach mir eine Erinnerung für viertel vor zwei, um mich daran zu erinnern, dass ich die Entlassungs-E-Mail an die PERSON schreiben muss.
+Alles klar, ich hab die Medikamente eingegeben.
+PTT-Kontrolle um 19 Uhr bei PATIENT auf STATION
+Setze auf die To Do Liste: Angehörige anrufen
+Ist ein Termin schon angesetzt für Prof. Buddes Visite?
+Erinnere mich in 10 Tagen: Fadenzug nach 10 Tagen Drainage.
+Zeig mir die To-Do-Liste.
+Trigger aus dem SAP-System: Notiz einer Pflege wird zu To Do auf persönlicher To Do Liste.
+Kannst du mir bitte die Kodoskopie anmelden für Fragestellung Frage nach Blutung, unter Noak-Einnahme, Diagnoseverdacht auf, und bei Fragestellung Blutungsstigmata?
+Bitte ankreuzen Blutdruck Antikorpulation Noak Ja mit Medikament abgesetzt seit dem 26.11.
+Bitte in das Feld Bemerkung: Bitte mit vierfach RFS-Messung anmelden. Rücksprache mit Oberarzt X ist erfolgt.
+PATIENT ist aufgeklärt zur Koronarangiographie, für den 27.11.2020 einmal bitte anmelden.
+Kannst du bitte aufgrund des Konsil von dem Neurologen einmal ein EMG anmelden bei Verdacht auf Myositis.
+Melde bitte die Untersuchung an.
+Melde bitte die Untersuchung an.
+Melde das EKG für PATIENT an.
+Mach Vorbereitungsuntersuchungen für eine Tavi.
+Tavi vorbereiten.
+Ruf einmal die Radiologie an für einen MRT Termin.
+Kümmere dich um eine poststationäre MRT Untersuchung.
+Melde eine Echokardiographie an.
+Für Montag, Mittwoch und Freitag eine kleine Med 1 erstellen.
+Melde eine Ultraschalluntersuchung für den Bauch an.
+Ordne nochmal Laborkontrolle an.
+Melde nochmal ein Demenz-Konsil  an.
+Welche Untersuchungen wurden bisher durch ZNA angemeldet?
+Sind die von der ZNA angeordneten Untersuchungen schon abgeschlossen?
+Lies die Beurteilung vor.
+Bitte vermerke: morgen rechte Herzklappe bei Untersuchung untersuchen
+Ist eine Coronarographie angemeldet für PATIENT?
+Bitte vermerke: PATIENT soll nüchtern sein für Untersuchung
+TEE für morgen für PATIENT planen.
+Untersuchung XY für PATIENT für morgen planen.
+Bitte melde TEE für morgen an
+Melde für Stress-MRT Untersuchung an und vermerke für die Pflege, dass PATIENT keinen Kaffee, Tee oder aufputschende Mittel zu sich nehmen darf. Am Morgen der Herz-MRT Untersuchung auch keine Herzmedikamente geben.
+Priorisiere Untersuchung bei PATIENT
+Patient ist eine Rückverlegung nach einer ACVB-OP: CIMON meldet automatisch an: Röntgen, Langzeit-EKG, Echo, Physio
+Automatisiert: Untersuchungen anmelden, Status mitteilen, Arztbericht direkt anlegen
+CIMON soll von selbst aus Standardprotokoll erkennen, dass bei Untersuchungsanmeldung für Untersuchung X PATIENT nüchtern sein muss und dies vermerken.
