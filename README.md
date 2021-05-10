@@ -39,3 +39,5 @@ Usage:
 ```
 
 * Samples of generated audio files are present in `sample_dataset` folder.
+
+* Few samples in german language are stored in `de_cimon_samples.txt`. In order to generate the corresponding audio files, execute `tts_de_reader.sh`. The generated wav files are zipped in `de_audio_samples.zip`.
